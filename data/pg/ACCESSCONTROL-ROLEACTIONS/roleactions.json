@@ -30918,6 +30918,18 @@
       "actionid": 2927,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 2928,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2928,
+      "actioncode": "",
+      "tenantId": "pg"
     }
     
     
