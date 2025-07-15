@@ -8,70 +8,26 @@
     },
     {
       "id": 2,
-      "code": "PWD"
+      "code": "MCD"
     },
     {
       "id": 3,
-      "code": "MES"
+      "code": "GeM"
     },
     {
       "id": 4,
-      "code": "Railways"
+      "code": "DDA"
     },
     {
       "id": 5,
-      "code": "Municipal Corporation"
+      "code": "NDMC"
     },
     {
       "id": 6,
-      "code": "Rural Development Department"
+      "code": "DJB"
     },
     {
       "id": 7,
-      "code": "Urban Local Bodies (ULBs)"
-    },
-    {
-      "id": 8,
-      "code": "Water Resources Department"
-    },
-    {
-      "id": 9,
-      "code": "Irrigation Department"
-    },
-    {
-      "id": 10,
-      "code": "NHAI"
-    },
-    {
-      "id": 11,
-      "code": "AAI"
-    },
-    {
-      "id": 12,
-      "code": "Smart City Mission"
-    },
-    {
-      "id": 13,
-      "code": "Zilla Parishad"
-    },
-    {
-      "id": 14,
-      "code": "Housing Board"
-    },
-    {
-      "id": 15,
-      "code": "State Electricity Board"
-    },
-    {
-      "id": 16,
-      "code": "PSUs"
-    },
-    {
-      "id": 17,
-      "code": "Private Registration"
-    },
-    {
-      "id": 18,
       "code": "Others"
     }
   ]
