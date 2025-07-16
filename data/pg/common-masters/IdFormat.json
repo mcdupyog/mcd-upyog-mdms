@@ -753,6 +753,10 @@
         {
             "format": "SV-CT-[seq_street_vending_certificate_no]",
             "idname": "street-vending.certificate.no"
+        },
+        {
+            "format": "MCD",
+            "idname": "idgeneration.mcd"
         }
     ]
 }
