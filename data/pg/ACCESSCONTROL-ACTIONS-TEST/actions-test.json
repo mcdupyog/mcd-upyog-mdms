@@ -19522,7 +19522,7 @@
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Inbox",
-      "orderNumber": 0,
+      "orderNumber": 1,
       "enabled": true,
       "serviceCode": "Finance",
       "code": "null",
@@ -19707,6 +19707,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Budget and Controls.Add Budget"
+    },
+    {
+      "id": 2929,
+      "name": "Dashboard",
+      "navigationURL": "services/EGF/dashboard",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Dashboard",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Dashboard"
     }
 	  
   ]
