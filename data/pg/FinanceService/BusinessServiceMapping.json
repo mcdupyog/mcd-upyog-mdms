@@ -41,7 +41,7 @@
     {
       "code":"REV_GRANTS",
       "voucherCreationEnabled":true,
-      "fund":"01",
+      "fund":"6101",
       "function":"000201",
       "department":"DEPT_25",
       "functionary":"",
