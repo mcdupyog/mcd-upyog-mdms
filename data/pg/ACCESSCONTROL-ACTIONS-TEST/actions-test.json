@@ -2498,7 +2498,7 @@
       "id": 1427,
       "name": "Modify Purposes",
       "url": "url",
-      "displayName": "Update Purposes",
+      "displayName": "Modify Purposes",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
@@ -2506,13 +2506,13 @@
       "code": "null",
       "path": "Finance.Masters.Purposes.Modify Purposes",
       "leftIcon": "editor:insert-chart",
-      "navigationURL": "services/EGF/purposes/update"
+      "navigationURL": "services/EGF/purposes/edit"
     },
     {
       "id": 1428,
-      "name": "Search Purposes",
+      "name": "View Purposes",
       "url": "url",
-      "displayName": "Search Purposes",
+      "displayName": "View Purposes",
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
@@ -2520,7 +2520,7 @@
       "code": "null",
       "path": "Finance.Masters.Purposes.Search Purposes",
       "leftIcon": "editor:insert-chart",
-      "navigationURL": "services/EGF/purposes/search"
+      "navigationURL": "services/EGF/purposes/view"
     },
     {
       "id": 1429,
