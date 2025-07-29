@@ -336,6 +336,11 @@
       "name": "Central Licensing & Enforcement Cell",
       "code": "DEPT_67",
       "active": true
+    },
+    {
+      "name": "Finance & General",
+      "code": "DEPT_68",
+      "active": true
     }
   ]
 }
