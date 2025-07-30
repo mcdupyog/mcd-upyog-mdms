@@ -1,8 +1,0 @@
-{
-    "tenantId": "pg",
-    "moduleName": "tenant",
-    "reassessmentconfig":[ {
-        "tenant": ["pg.mcd"],
-        "financialyear": "2021-22"
-    }]
-}

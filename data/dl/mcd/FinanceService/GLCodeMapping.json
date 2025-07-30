@@ -1,0 +1,55 @@
+{
+  "tenantId": "dl.mcd",
+  "moduleName": "FinanceModule",
+  "GLCodeMapping": [
+    {
+      "serviceCode": "PTR",
+      "componentCode": "CC01",
+      "componentName": "Property Tax",
+      "debitGL": "4101001",     
+      "creditGL": "4201001"     
+    },
+    {
+      "serviceCode": "PTR",
+      "componentCode": "CC02",
+      "componentName": "Education Cess",
+      "debitGL": "4101002",     
+      "creditGL": "4201001"     
+    },
+    {
+      "serviceCode": "PTR",
+      "componentCode": "CC03",
+      "componentName": "Penalty",
+      "debitGL": "4102001",     
+      "creditGL": "4201001"
+    },
+    {
+      "serviceCode": "PTR",
+      "componentCode": "CC04",
+      "componentName": "Interest",
+      "debitGL": "4102002",     
+      "creditGL": "4201001"
+    },
+    {
+      "serviceCode": "SR02",
+      "componentCode": "CC08",
+      "componentName": "Water Charges",
+      "debitGL": "4111001",     
+      "creditGL": "4201001"     
+    },
+    {
+      "serviceCode": "SR02",
+      "componentCode": "CC09",
+      "componentName": "Meter Rent",
+      "debitGL": "4111002",
+      "creditGL": "4201001"
+    },
+    {
+      "serviceCode": "SR02",
+      "componentCode": "CC10",
+      "componentName": "Sewerage",
+      "debitGL": "4112001",
+      "creditGL": "4201001"
+    }
+  ]
+}
