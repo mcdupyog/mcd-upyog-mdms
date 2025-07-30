@@ -1,9 +1,0 @@
-{
-    "tenantId": "pg.mcd",
-    "moduleName": "FSM",
-    "zeroPricing": [
-        {
-            "zeroPricingStatus": false
-        }
-    ]
-}
