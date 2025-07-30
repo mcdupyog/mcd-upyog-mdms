@@ -19700,7 +19700,7 @@
     {
       "id": 2928,
       "name": "Add Budget",
-      "navigationURL": "services/EGF/budget/addNew",
+      "navigationURL": "services/EGF/addBudget/addNew",
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Add Budget",
