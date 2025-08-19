@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.mcd",
+  "tenantId": "dl.mcd",
   "moduleName": "egov-location",
   "TenantBoundaryLight": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.mcd",
+        "code": "dl.mcd",
         "children": [
           {
             "id": "2323ddf1-4228-45b4-887c-915d5e974bc2",
@@ -3069,7 +3069,7 @@
         "code": "ADMIN",
         "name": "ADMIN"
       },
-            "boundary": {
+        "boundary": {
         "id": 1,
         "boundaryNum": 1,
         "name": "Delhi",
@@ -3077,7 +3077,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.mcd",
+        "code": "dl.mcd",
         "children": [
           {
             "id": "2323ddf1-4228-45b4-887c-915d5e974bc2",
