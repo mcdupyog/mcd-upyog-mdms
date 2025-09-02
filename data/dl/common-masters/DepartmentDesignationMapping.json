@@ -3,19 +3,15 @@
   "moduleName": "common-masters",
   "DepartmentDesignationMapping": [
     {
-      "departmentCode": "DEPT_02", 
+      "departmentCode": "114", 
       "designationCodes": ["DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_28"]
     },
     {
-      "departmentCode": "DEPT_05",
+      "departmentCode": "115",
       "designationCodes": ["DESIG_22", "DESIG_28"]
-    },
-    {
-      "departmentCode": "DEPT_03",  
-      "designationCodes": ["DESIG_13", "DESIG_14", "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_28"]
     },  
     {
-      "departmentCode": "DEPT_01", 
+      "departmentCode": "016", 
       "designationCodes": ["DESIG_25","DESIG_21","DESIG_28"]     
     }
   ]
