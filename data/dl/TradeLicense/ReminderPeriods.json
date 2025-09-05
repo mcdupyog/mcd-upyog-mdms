@@ -9,10 +9,6 @@
       {
         "tenantId": "dl.mcd",
         "reminderInterval": 12345
-      },
-      {
-        "tenantId": "pg.cityc",
-        "reminderInterval": 12345  
       }
     ]
   }
