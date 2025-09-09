@@ -10,9 +10,6 @@
       "order":2,
       "tenants": [
         {
-          "code": "dl.citya"
-        },
-        {
           "code": "dl.mcd"
         }
       ]
@@ -23,9 +20,6 @@
       "active": true,
       "order":1,
       "tenants": [
-        {
-          "code": "dl.citya"
-        },
         {
           "code": "dl.mcd"
         }
@@ -38,9 +32,6 @@
       "order":4,
       "tenants": [
         {
-          "code": "dl.citya"
-        },
-        {
           "code": "dl.mcd"
         }
       ]
@@ -51,9 +42,6 @@
       "active": true,
       "order":1,
       "tenants": [
-        {
-          "code": "dl.citya"
-        },
         {
           "code": "dl.mcd"
         }
@@ -66,7 +54,7 @@
       "order":4,
       "tenants": [
         {
-          "code": "dl.citya"
+          "code": "dl.mcd"
         }
       ]
     },
@@ -76,9 +64,6 @@
       "active": true,
       "order":1,
       "tenants": [
-        {
-          "code": "dl.citya"
-        },
         {
           "code": "dl.mcd"
         }
@@ -91,9 +76,6 @@
       "order":3,
       "tenants": [
         {
-          "code": "dl.citya"
-        },
-        {
           "code": "dl.mcd"
         }
       ]
@@ -104,9 +86,6 @@
       "active": true,
       "order":6,
       "tenants": [
-        {
-          "code": "dl.citya"
-        },
         {
           "code": "dl.mcd"
         }
@@ -119,9 +98,6 @@
       "order":2,
       "tenants": [
         {
-          "code": "dl.citya"
-        },
-        {
           "code": "dl.mcd"
         }
       ]
@@ -132,9 +108,6 @@
       "active": true,
       "order":5,
       "tenants": [
-        {
-          "code": "dl.citya"
-        },
         {
           "code": "dl.mcd"
         }
@@ -148,9 +121,6 @@
       "order":1,
       "tenants": [
         {
-          "code": "dl.citya"
-        },
-        {
           "code": "dl.mcd"
         }
       ]
@@ -161,9 +131,6 @@
       "active": true,
       "order": 13,
       "tenants": [
-        {
-          "code": "dl.citya"
-        },
         {
           "code": "dl.mcd"
         }
