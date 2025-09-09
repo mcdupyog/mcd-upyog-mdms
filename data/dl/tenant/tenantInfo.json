@@ -3,16 +3,6 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "dl.citya",
-      "districtCode": "CITYA",
-      "population": "156716",
-      "malePopulation": "82045",
-      "femalePopultion": "74671",
-      "workingPopulation": "37.2",
-      "literacyRate": "79.2",
-      "languagesSpoken": ["PN", "HN", "EN"]
-    },
-    {
       "code": "dl.mcd",
       "districtCode": "MCD",
       "population": "116449",
